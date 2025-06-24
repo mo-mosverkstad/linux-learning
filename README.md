@@ -1,1 +1,1 @@
-# new-person
+# Learning linux repository
